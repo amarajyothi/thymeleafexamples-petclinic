@@ -2,4 +2,3 @@ Hello
 welcome
 Welcome to devops 
 how are you
-hi
